@@ -5,7 +5,7 @@
 💻 I have a huge Interest in Frontend Development👀 & AI Projects🦾, also UI/UX Designing✨
 
 ## 🚀 Projects
-- Countdown Timer
+- [Countdown Timer]
 - python_streamlit_projects
 - Hackathone-milestones
 - Calculator
