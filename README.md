@@ -17,4 +17,4 @@
 - Open AI Agent SDK (for making Agents) 
 
 ## 📫 Connect with me
-- GitHub: [@AlishbaAsif](https://github.com/AlishbaAsif)
+- GitHub: [@Alishbasif](https://github.com/Alishbasif)
