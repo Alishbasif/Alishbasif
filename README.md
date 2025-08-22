@@ -5,10 +5,10 @@
 💻 I have a huge Interest in Frontend Development👀 & AI Projects🦾, also UI/UX Designing✨
 
 ## 🚀 Projects
-- [Countdown Timer]
-- [python_streamlit_projects]
-- [Hackathone-milestones]
-- [Calculator]
+- Countdown Timer
+- python_streamlit_projects
+- Hackathone-milestones
+- Calculator
 
 ## 🔧 Skills
 - HTML, CSS, JavaScript, Typescript, Python, Tailwind CSS  
@@ -18,3 +18,5 @@
 
 ## 📫 Connect with me
 - GitHub: [@Alishbasif](https://github.com/Alishbasif)
+- Linkedin : www.linkedin.com/in/alishba-asif-222b77363
+
