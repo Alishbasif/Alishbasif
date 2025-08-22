@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hi, I'm Alishba Asif  
 
-<!--
-**Alishbasif/Alishbasif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 From Karachi, Pakistan   
+🌱 Currently I'm learning about Agentic AI and Full Stack Development  
+💻 I have a huge Interest in Frontend Development👀 & AI Projects🦾, also UI/UX Designing✨
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- [Countdown Timer]
+- [python_streamlit_projects]
+- [Hackathone-milestones]
+- [Calculator]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- HTML, CSS, JavaScript, Typescript, Python, Tailwind CSS  
+- React, Next.js  
+- Git & GitHub
+- Open AI Agent SDK (for making Agents) 
+
+## 📫 Connect with me
+- GitHub: [@AlishbaAsif](https://github.com/AlishbaAsif)
