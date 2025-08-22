@@ -18,5 +18,5 @@
 
 ## 📫 Connect with me
 - GitHub: [@Alishbasif](https://github.com/Alishbasif)
-- Linkedin: (https://www.linkedin.com/in/alishba-asif-222b77363/)
+- Linkedin: https://www.linkedin.com/in/alishba-asif-222b77363/
 
