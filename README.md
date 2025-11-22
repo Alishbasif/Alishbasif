@@ -1,4 +1,4 @@
-(<a href="https://gitroll.io/profile/uCx2E9L90WVcacQOqJxP2ih26GSN2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uCx2E9L90WVcacQOqJxP2ih26GSN2?theme=dark" alt="GitRoll Profile Badge"/></a>)
+<a href="https://gitroll.io/profile/uCx2E9L90WVcacQOqJxP2ih26GSN2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uCx2E9L90WVcacQOqJxP2ih26GSN2?theme=dark" alt="GitRoll Profile Badge"/></a>
 
 
 ## 👋 Hi, I'm Alishba Asif  
