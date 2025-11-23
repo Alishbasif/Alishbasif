@@ -2,9 +2,9 @@
 
 # 📝 Content
 <img width="1280" height="720" alt="Skills" src="https://github.com/user-attachments/assets/da159be7-132c-4f54-8c76-d9dd68024f85" />
-<div style="text-align: center;">
+<div style="text-align: center">
   <a href="https://www.youtube.com/@AlishbaAsif-j5r" target="_blank">
-    <img src="https://img.shields.io/badge/📺-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </div>
 
