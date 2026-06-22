@@ -49,6 +49,8 @@
   <a href="https://www.linkedin.com/in/alishba-asif-222b77363/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  [![Email](https://img.shields.io/badge/Email-alishbaasif943@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alishbaasif943@email.com)
+ <a href="mailto:alishbaasif943@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
