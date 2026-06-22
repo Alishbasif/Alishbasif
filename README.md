@@ -8,8 +8,18 @@
 </div>
 
 <img width="1280" height="720" alt="Youtube Banner" src="https://github.com/user-attachments/assets/20db9edd-9006-4aa7-877a-7daf4cb0516c" />
+## 📊 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlishbaAsif&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlishbaAsif&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlishbaAsif&layout=compact" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlishbaAsif" />
+</p>
 
 ## 👩🏻‍💻 Tech Stack
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
