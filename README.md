@@ -1,13 +1,5 @@
 <a href="https://gitroll.io/profile/uCx2E9L90WVcacQOqJxP2ih26GSN2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uCx2E9L90WVcacQOqJxP2ih26GSN2?theme=dark" alt="GitRoll Profile Badge"/></a>
 
-<img width="1280" height="720" alt="Skills" src="https://github.com/user-attachments/assets/da159be7-132c-4f54-8c76-d9dd68024f85" />
-<div align = "center" height="30">
-  <a href="https://www.youtube.com/@AlishbaAsif-j5r" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-</div>
-
-<img width="1280" height="720" alt="Youtube Banner" src="https://github.com/user-attachments/assets/20db9edd-9006-4aa7-877a-7daf4cb0516c" />
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -20,6 +12,16 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlishbaAsif" />
 </p>
+
+
+<img width="1280" height="720" alt="Skills" src="https://github.com/user-attachments/assets/da159be7-132c-4f54-8c76-d9dd68024f85" />
+<div align = "center" height="30">
+  <a href="https://www.youtube.com/@AlishbaAsif-j5r" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+</div>
+
+<img width="1280" height="720" alt="Youtube Banner" src="https://github.com/user-attachments/assets/20db9edd-9006-4aa7-877a-7daf4cb0516c" />
 
 ## 👩🏻‍💻 Tech Stack
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
