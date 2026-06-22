@@ -2,14 +2,14 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<p align="center" theme="tokyonight">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlishbaAsif&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlishbaAsif&layout=compact" />
 </p>
 
 ## 🔥 GitHub Streak
 
-<p align="center">
+<p align="center" theme="github_dark">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlishbaAsif" />
 </p>
 
