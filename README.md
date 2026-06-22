@@ -9,6 +9,8 @@
 
 <img width="1280" height="720" alt="Youtube Banner" src="https://github.com/user-attachments/assets/20db9edd-9006-4aa7-877a-7daf4cb0516c" />
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlishbaAsif&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+
 ## 👩🏻‍💻 Tech Stack
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
