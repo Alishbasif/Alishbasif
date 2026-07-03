@@ -4,7 +4,7 @@
 
 <p align="center" theme="tokyonight">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlishbaAsif&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlishbaAsif&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alishbaasif&layout=compact" />
 </p>
 
 # 🔥 GitHub Streak
