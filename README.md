@@ -13,9 +13,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlishbaAsif" />
 </p>
 
-
 <img width="1280" height="720" alt="Skills" src="https://github.com/user-attachments/assets/da159be7-132c-4f54-8c76-d9dd68024f85" />
-<div align = "center" height="30">
+
+<div align="center">
   <a href="https://www.youtube.com/@AlishbaAsif-j5r" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
@@ -39,7 +39,6 @@
 ![Claude](https://img.shields.io/badge/-Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
-
 <h2>🌍 Let's Connect</h2>
 
 <p>
@@ -49,8 +48,8 @@
   <a href="https://www.linkedin.com/in/alishba-asif-222b77363/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
- <a href="mailto:alishbaasif943@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="mailto:alishbaasif943@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
