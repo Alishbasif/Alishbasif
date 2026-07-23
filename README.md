@@ -1,4 +1,5 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/148361cf-ecc8-454a-b050-14cbd86dd655" /><a href="https://gitroll.io/profile/uCx2E9L90WVcacQOqJxP2ih26GSN2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uCx2E9L90WVcacQOqJxP2ih26GSN2?theme=dark" alt="GitRoll Profile Badge"/></a>
+<img width="1366" height="768" alt="image" />
+<a href="https://gitroll.io/profile/uCx2E9L90WVcacQOqJxP2ih26GSN2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uCx2E9L90WVcacQOqJxP2ih26GSN2?theme=dark" alt="GitRoll Profile Badge"/></a>
 
 <div align="center">
   <a href="https://www.youtube.com/@AlishbaAsif-j5r" target="_blank">
