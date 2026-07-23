@@ -2,7 +2,7 @@
 
 <div align="center">
   <img width="1280" height="720" alt="Youtube Banner" src="https://github.com/user-attachments/assets/20db9edd-9006-4aa7-877a-7daf4cb0516c"/>
-  <a href="https://www.youtube.com/@AlishbaAsif-j5r" target="_blank">
+  <a height= "80" width="80" href="https://www.youtube.com/@AlishbaAsif-j5r" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </div>
@@ -47,18 +47,31 @@
 
 <h2>🌍 Let's Connect</h2>
 
-<div>
-  <p>Twitter: </p>
-  <a href="https://x.com/AlishbaAsif9638" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <p>LinkedIn: </p>
-  <a href="https://www.linkedin.com/in/alishba-asif-222b77363/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <p>Gmail: </p>
-  <a href="mailto:alishbaasif943@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
+<table>
+  <tr>
+    <td><strong>Twitter</strong></td>
+    <td>
+      <a href="https://x.com/AlishbaAsif9638" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+      </a>
+    </td>
+  </tr>
 
+  <tr>
+    <td><strong>LinkedIn</strong></td>
+    <td>
+      <a href="https://www.linkedin.com/in/alishba-asif-222b77363/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Gmail</strong></td>
+    <td>
+      <a href="mailto:alishbaasif943@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      </a>
+    </td>
+  </tr>
+</table>
