@@ -7,7 +7,7 @@
   </a>
 </div>
 
-<img width="1280" height="720" alt="Youtube Banner" src="/Skills.png" />
+<img width="1280" height="720" alt="Youtube Banner" src="/Skills_Badge.png" />
 
 ## 👩🏻‍💻 Tech Stack
 ### Frontend Development
